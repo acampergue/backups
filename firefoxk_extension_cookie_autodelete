@@ -1,0 +1,224 @@
+{
+  "default": [
+    {
+      "expression": "tradingview.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "id": "S10_BrjNz",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.accounts.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BystvT44f",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.coinigy.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1LjuprHf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.de.mammut.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByXExSfqM",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.getpocket.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S14Oh6SrM",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkKG7PYlf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.hrworks.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1OUMfx5z",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.login.hrworks.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1xcUMMg5z",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.mail.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1xqfD6HSG",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.mail.protonmail.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkD8v6Srz",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.mammut.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1zElSG9M",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.meetup.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJlYAQNOPf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.protonmail.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1G8vpBSM",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.service-now.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJm6ULIVz",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.stash.traviangames.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1rwWASrf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.traviangames.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1jLJ8LVz",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.traviangames.service-now.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkpZtTSHf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJx_pHuKwM",
+      "cookieNames": []
+    },
+    {
+      "expression": "accounts.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1YKvTEVz",
+      "cookieNames": []
+    },
+    {
+      "expression": "coinigy.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1ridaHBz",
+      "cookieNames": []
+    },
+    {
+      "expression": "de.mammut.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rygMExSfcM",
+      "cookieNames": []
+    },
+    {
+      "expression": "getpocket.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJcWQvKlf",
+      "cookieNames": []
+    },
+    {
+      "expression": "login.hrworks.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1qUfGlqG",
+      "cookieNames": []
+    },
+    {
+      "expression": "mail.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJ9zD6HSG",
+      "cookieNames": []
+    },
+    {
+      "expression": "mail.protonmail.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJr8vaSSz",
+      "cookieNames": []
+    },
+    {
+      "expression": "meetup.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJK0mN_vG",
+      "cookieNames": []
+    },
+    {
+      "expression": "stash.traviangames.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJxrDZRHSM",
+      "cookieNames": []
+    },
+    {
+      "expression": "traviangames.service-now.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sks-KpSSG",
+      "cookieNames": []
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJuprOFvM",
+      "cookieNames": []
+    }
+  ],
+  "firefox-container-54": [
+    {
+      "expression": "*.startpage.com",
+      "listType": "GREY",
+      "storeId": "firefox-container-54",
+      "id": "SyGbm-ASz",
+      "cookieNames": []
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "GREY",
+      "storeId": "firefox-container-54",
+      "id": "SJWWQW0rG",
+      "cookieNames": []
+    }
+  ],
+  "firefox-container-312": []
+}
