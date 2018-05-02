@@ -1,0 +1,17 @@
+Host *
+#Host *.blabla.info
+  User a.campergue
+  HashKnownHosts no
+  ServerAliveInterval 120
+
+Host centos7
+  HostName 127.0.0.1
+  Port 2222
+  User specialuser
+  UserKnownHostsFile /dev/null
+  StrictHostKeyChecking no
+  PasswordAuthentication no
+  IdentityFile /home/acampergue/.vagrant.d/insecure_private_key
+  IdentitiesOnly yes
+  LogLevel FATAL
+  ForwardAgent yes
