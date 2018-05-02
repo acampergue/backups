@@ -1,0 +1,4 @@
+alias l='ls -Alh --color'
+alias ll='ls -Alh --color'
+
+alias upgrade="sudo su -c 'apt-get update && apt-get -y upgrade && apt-get autoclean && apt-get clean'"
