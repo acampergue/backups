@@ -1,0 +1,14 @@
+[user]
+	email = 
+	name = Aurelien Campergue
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+[push]
+	default = simple
+[core]
+	editor = vim
+#	pager = 
